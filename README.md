@@ -80,29 +80,28 @@ You can find the full set of images in this repository.
 
 ## To run this project locally:
 
-# 1. Clone the repository
+1. Clone the repository
 git clone https://github.com/BrunaGil25/covid-vaccination-analysis.git
 cd covid-vaccination-analysis
 
-# 2. Create a virtual environment
+2. Create a virtual environment
 python -m venv venv
 
-# 3. Activate the virtual environment
-#  Use the appropriate command for your system:
+3. Activate the virtual environment
+ Use the appropriate command for your system:
+ - Windows
+   venv\Scripts\activate
 
-# Windows
-venv\Scripts\activate
+- macOS/Linux
+  source venv/bin/activate
 
-# macOS/Linux
-source venv/bin/activate
-
-# 4. Install dependencies
+4. Install dependencies
 pip install -r requirements.txt
 
-# 5. (Optional) Install Jupyter Lab if not already installed
+5. (Optional) Install Jupyter Lab if not already installed
 pip install jupyterlab
 
-# 6. Launch the notebook
+6. Launch the notebook
 jupyter lab
 
 
@@ -111,4 +110,5 @@ jupyter lab
 Bruna — COVID-19 data analyst and public health enthusiast
 
 ---
+
 
