@@ -71,7 +71,7 @@ All correlation matrices, residual plots, histograms, and QQ-plots were generate
 - `statsmodels`
 - `scipy`
 
-You can find the full set of images in the `/images` folder of this repository.
+You can find the full set of images in this repository.
 
 ## Requirements
 
@@ -111,3 +111,4 @@ jupyter lab
 Bruna — COVID-19 data analyst and public health enthusiast
 
 ---
+
