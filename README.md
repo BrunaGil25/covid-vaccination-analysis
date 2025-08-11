@@ -51,7 +51,7 @@ This project explores the relationship between COVID-19 vaccination rates and pa
 This project uses two datasets:
 
 1. **OWID COVID-19 Data**  
-   - Source: [Our World in Data]("https://raw.githubusercontent.com/owid/covid-19-data/master/public/data/owid-covid-data.csv")
+   - Source: [Our World in Data]([https://your-link.com/owid-covid-data.csv](https://raw.githubusercontent.com/owid/covid-19-data/master/public/data/owid-covid-data.csv)
    - ⚠️ Not included in this repo due to size.  
    - **Instructions**:  
      - Download the file from the link above  
@@ -110,6 +110,7 @@ jupyter lab
 Bruna — COVID-19 data analyst and public health enthusiast
 
 ---
+
 
 
 
